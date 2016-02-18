@@ -1,0 +1,37 @@
+﻿.table{
+	width: 550px;
+	height: 600px;
+	border: 8px solid pink;
+}
+
+tr, td{
+	border: 8px solid #251810;
+	padding: 10px;
+}
+
+.red_color{
+	background-color: #ff5636;
+	width: 40px;
+	height: 160px;
+}
+
+.black_color_1{
+	background-color: #313031;
+	width: 20px;
+	height: 20px;
+}
+
+.black_color_2{
+	background-color: #313031;
+	width: 100px;
+	height: 10px;
+}
+
+.yellow_color{
+	background-color: #fbe14b;
+	width: 40px;
+}
+
+.blue_color{
+	background-color: #1b63a4;
+}
