@@ -1,7 +1,7 @@
 ﻿.table{
 	width: 550px;
 	height: 600px;
-	border: 8px solid pink;
+	border: 9px solid #fff;
 }
 
 tr, td{
@@ -10,28 +10,28 @@ tr, td{
 }
 
 .red_color{
-	background-color: #ff5636;
+	background-image: url("../img/red.png");
 	width: 40px;
 	height: 160px;
 }
 
 .black_color_1{
-	background-color: #313031;
+	background-image: url("../img/black.png");
 	width: 20px;
 	height: 20px;
 }
 
 .black_color_2{
-	background-color: #313031;
+	background-image: url("../img/black.png");
 	width: 100px;
 	height: 10px;
 }
 
 .yellow_color{
-	background-color: #fbe14b;
+	background-image: url("../img/yellow.png");
 	width: 40px;
 }
 
 .blue_color{
-	background-color: #1b63a4;
+	background-image: url("../img/blue.png");
 }
